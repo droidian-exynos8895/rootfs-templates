@@ -1,0 +1,6 @@
+Architectures: arm64
+Components: main
+Suites: bookworm
+Uris: https://mirror.bardia.tech/exynos8895
+Types: deb
+Signed-By: /var/lib/extrepo/keys/exy8895.asc
